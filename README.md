@@ -1,25 +1,30 @@
 
+
 <div align="center">
 
-# MaTTvey
+<img src="./banner.png" width="100%" />
 
-### Developer • Open Source • Web
+# MaTTvey-web
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=MaTTvey&fontSize=60&fontColor=ffffff&fontAlignY=50&desc=Building%20things%20for%20the%20web&descAlignY=75&descSize=16" width="100%" />
+**Developer · Open Source · Web**
+
+*Building things. Learning every day.*
 
 </div>
 
+---
+
 ## About me
 
-- 💻 Developer interested in web and software
-- 🌐 Building websites and digital projects
+- 💻 Interested in software development and web technologies
+- 🚀 Building websites and digital projects
 - ⚽ Working on Score It!
 - 🖥️ Interested in macOS and system customization
-- 🚀 Always learning something new
+- 🌱 Always learning something new
 
 ## Tech Stack
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,cpp,apple&theme=dark" />
 </p>
 
@@ -27,22 +32,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaTTvey&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="49%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MaTTvey-web&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaTTvey&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" width="41%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaTTvey-web&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" />
 
 </div>
 
-## Activity
+## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaTTvey&bg_color=0d1117&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaTTvey-web&bg_color=0d1117&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true" width="100%" />
 
-## Featured Projects
+## Projects
 
 <div align="center">
 
-<a href="https://github.com/MaTTvey?tab=repositories">
-  <img src="https://img.shields.io/badge/All%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/MaTTvey-web?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20my%20repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -51,6 +56,6 @@
 
 <div align="center">
 
-*Building. Learning. Improving.*
+*Code. Create. Improve.*
 
 </div>
