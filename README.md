@@ -28,19 +28,20 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,cpp,apple&theme=dark" />
 </p>
 
+
 ## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MaTTvey-web&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaTTvey-web&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaTTvey-web&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaTTvey-web&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+</p>
 
 ## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaTTvey-web&bg_color=0d1117&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true" width="100%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaTTvey-web&theme=github-compact&hide_border=true" width="100%" />
+</p>
+
 
 ## Projects
 
